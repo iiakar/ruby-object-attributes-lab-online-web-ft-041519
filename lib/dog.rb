@@ -4,7 +4,7 @@ def Dog
 
 end 
 
-def name(Dog)
+def name
   @Dog = Dog 
 
 end 
