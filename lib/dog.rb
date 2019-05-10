@@ -4,8 +4,9 @@ def Dog
 
 end 
 
-def initialize(name)
-    @name = name
+def initialize(Dog)
+    @name = Dog 
+    @name = name 
     
   end
 end
