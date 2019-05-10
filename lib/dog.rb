@@ -1,11 +1,6 @@
 class Dog 
 
 def Dog 
-
+@Dog = Dog 
 end 
 
-def initialize(Dog)
-    @Dog = Dog 
-    
-  end
-end
